@@ -1,0 +1,17 @@
+body {
+    display: flex;
+    height: 100vh;
+    margin: 0;
+    justify-content: center;
+    place-items: center;
+    background: #3C8BD0;
+  }
+  
+  .face {
+    height: 300px;
+    width: 290px;
+    border-radius: 50%;
+    background: #46A3F3;
+    box-shadow: inset 14px 0 #367fbf, inset -14px 0 #367fbf;
+    position: relative;
+  }
